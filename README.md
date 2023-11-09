@@ -55,7 +55,7 @@ Some of the logic to process the daily pollutant data and get a yearly AQI estim
 The notebook helps in generating a processed AQI dataset using all the pollutants and sensors that recorded it near Redding, California.
 
 
-## Section 3: Estimating Air Quality and Time Series Analysis
+## Section 3: [Estimating Air Quality and Time Series Analysis](./Wildfire_Data_Analysis.ipynb)
 
 ### Overview
 Building on the data from the above notebooks, this notebook focuses on estimating the fire smoke estimates of wildfires. It includes the analysis of fire smoke estimate data and the application of time series forecasting to predict future fire smoke. We also compare our estimate with the standard AQI which is calculated in the second notebook.
